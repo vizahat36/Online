@@ -21,7 +21,7 @@ text-align:center;
 
 <h1> Online Fashion Shopping</h1>
 name <input type="text"><br>
-name <input type="text"><br>
+Password <input type="text"><br>
 name <input type="text"><br>
 name <input type="text"><br>
 
