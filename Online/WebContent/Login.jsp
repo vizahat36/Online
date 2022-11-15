@@ -21,6 +21,10 @@ text-align:center;
 
 <h1> Online Fashion Shopping</h1>
 name <input type="text"><br>
+name <input type="text"><br>
+name <input type="text"><br>
+name <input type="text"><br>
+
 password <input type="text"><br>
 <br>
 <a href="Regsitration.jsp" target="_blank"><button>submit</button></a> 
